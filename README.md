@@ -70,4 +70,6 @@ python number_guessing_game.py
 
 Number guessing games are commonly used to teach programming fundamentals and logical thinking. This project demonstrates how interactive applications can be built using Python.
 
+## Output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/14e092fe-335e-4fe9-b54a-2f510d8b1558" />
