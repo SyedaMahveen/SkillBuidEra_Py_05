@@ -42,20 +42,6 @@ This project helps in understanding loops, conditionals, user input handling, an
 
 
 
-
-## How to Run
-
-1. Install Python 3.
-2. Download or clone this repository.
-3. Open Terminal or Command Prompt.
-4. Run:
-
-python number_guessing_game.py
-
-5. Enter guesses until you find the correct number.
-
-
-
 ## Learning Outcomes
 
 * Loops and Iteration
